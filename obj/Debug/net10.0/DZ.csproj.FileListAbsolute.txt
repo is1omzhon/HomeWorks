@@ -1,0 +1,14 @@
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\bin\Debug\net10.0\DZ.exe
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\bin\Debug\net10.0\DZ.deps.json
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\bin\Debug\net10.0\DZ.runtimeconfig.json
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\bin\Debug\net10.0\DZ.dll
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\bin\Debug\net10.0\DZ.pdb
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\DZ.AssemblyInfoInputs.cache
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\DZ.AssemblyInfo.cs
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\DZ.dll
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\refint\DZ.dll
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\DZ.pdb
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\DZ.genruntimeconfig.cache
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\DZ\obj\Debug\net10.0\ref\DZ.dll
